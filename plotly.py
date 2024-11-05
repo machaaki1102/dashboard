@@ -4,7 +4,7 @@ import altair as alt
 import plotly.express as px
 import json
 
-#ページ設定を行う
+#ページ設定を行う"abs
 st.set_page_config(
     page_title="Sale Dashboard",
     page_icon="🏂",
